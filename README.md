@@ -25,7 +25,9 @@ se a mensagem for semelhante a esta, "git version 2.20.1.windows.1", então est�
 ### [3] No Android Studio:
 * Inicia o programa e carrega em "Check out Project From Version Control" e de seguida em Git: [Ver Imagem](https://github.com/Mhubris/ENEEB/blob/master/Workshop%20Android/android_1.png?raw=true)
 
-* Cola o link [ https://github.com/Mhubris/ENEEB.git ] no URL;  
+* Cola o link [ https://github.com/Mhubris/ENEEB.git ] no URL e faz sempre >Next;
+
+* Finalmente deves ter um ambiente de trabalho idêntico a este: 
 
 Se tiveres dúvidas:
 mnm.andrade@campus.fct.unl.pt
