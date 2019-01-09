@@ -37,8 +37,11 @@ se a mensagem for semelhante a esta, "git version 2.20.1.windows.1", então est�
 
 ### [5] Correr a aplicação:
 * Neste passo deves estar conectado à rede visto que terás de instalar mais pacotes (Não te preocupes porque o Android vai perguntar se os queres instalar!)
-* Com o dispositivo ligado por cabo ao teu computador correr a aplicação
-![run](https://github.com/Mhubris/ENEEB/blob/master/Workshop%20Android/env_2.png?raw=true)
+* Liga o teu telefone por cabo ao computador e aceita as pop ups que vão aparecer;
+* Basta agora correr o app:![run](https://github.com/Mhubris/ENEEB/blob/master/Workshop%20Android/env_2.png?raw=true)
+* Seleciona o teu dispositivo e faz run:
+![device](https://github.com/Mhubris/ENEEB/blob/master/Workshop%20Android/env_3.png?raw=true)
+* Espero que te divirtas no workshop :)
 
 Se tiveres dúvidas:
 mnm.andrade@campus.fct.unl.pt
