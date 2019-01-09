@@ -7,9 +7,9 @@
     tools:context=".LoginActivity">
 
     <TextView
-        android:textSize="26sp"
+        android:textSize="24sp"
         android:gravity="center"
-        android:text="Bem Vindos ao ENEEB"
+        android:text="Bem Vindo ao Workshop Android"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </RelativeLayout>
