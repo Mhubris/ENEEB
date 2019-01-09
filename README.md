@@ -27,7 +27,7 @@ se a mensagem for semelhante a esta, "git version 2.20.1.windows.1", então est�
 
 * Cola o link [ https://github.com/Mhubris/ENEEB.git ] no URL e faz sempre >Next;
 
-* Finalmente deves ter um ambiente de trabalho idêntico a este: 
+* Finalmente deves ter um ambiente de trabalho idêntico ao seguinte [Ver Imagem](https://github.com/Mhubris/ENEEB/blob/master/Workshop%20Android/env_1.JPG?raw=true);
 
 Se tiveres dúvidas:
 mnm.andrade@campus.fct.unl.pt
