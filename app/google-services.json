@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136395755960",
+    "firebase_url": "https://eneeb-c9b6a.firebaseio.com",
+    "project_id": "eneeb-c9b6a",
+    "storage_bucket": "eneeb-c9b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136395755960:android:861a1820565ff13d",
+        "android_client_info": {
+          "package_name": "pt.skern.eneeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136395755960-afj9vednutgd79tnujpgltdnegvgonam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.skern.eneeb",
+            "certificate_hash": "e974433cee0385b7ade6f49eb13f3f11841651a6"
+          }
+        },
+        {
+          "client_id": "136395755960-ut30ud2rn6opg3d6cij66uqg6imtc5eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWs8lww7jH4IO28tnzx-L6X2GA8mQNDu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136395755960-ut30ud2rn6opg3d6cij66uqg6imtc5eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
