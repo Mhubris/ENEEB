@@ -1,4 +1,4 @@
-## Sejam bem vindos ao Workshop de Android do ENEEB!
+## Sejam bem vindos ao Workshop de Android!
 
 Para estares preparado para participar no workshop deves executar os seguintes passos:
 #### [1] Setup do Android Studio:
